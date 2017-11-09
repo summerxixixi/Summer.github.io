@@ -12,7 +12,7 @@ baseurl: "/Summer.github.io"         # for example, '/blog' if your blog hosted 
 
 # SNS settings
 RSS: false
-weibo_username:     https://weibo.com/u/2862192674?refer_flag=1001030101_
+weibo_username:     晓识春衫_
 zhihu_username:     summerxixixi
 github_username:    summerxixixi
 #twitter_username:  summerxixixi
@@ -50,9 +50,9 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: summerxixixi
+#duoshuo_username: summerxixixi
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+#duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
