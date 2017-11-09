@@ -1,8 +1,8 @@
 # Site settings
-title: Hello Summer
+title: Hi Summer
 SEOTitle: My World | Welcome 
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: 897249482@qq.com
 description: ""
 keyword: ""
 url: "http://Summer.github.io"              # your host, for absolute URL
@@ -12,11 +12,11 @@ baseurl: "/Summer.github.io"         # for example, '/blog' if your blog hosted 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-#twitter_username:  huxpro
-facebook_username:  huxpro
+weibo_username:     https://weibo.com/u/2862192674?refer_flag=1001030101_
+zhihu_username:     summerxixixi
+github_username:    summerxixixi
+#twitter_username:  summerxixixi
+facebook_username:  summerxixixi
 
 
 
@@ -50,7 +50,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+duoshuo_username: summerxixixi
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -68,8 +68,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "世界那么大，我想多吃吃。"
+sidebar-avatar: /img/avatar-niangkousansan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
